@@ -1,3 +1,7 @@
+spring:
+  redis:
+    host: localhost
+    port: 6379
 line.bot:
   channel-token: 'yckb8Goq5BarQE9awoAC5uatVx9VxZEUmudcbwt2t93EnKBSG7bRkeaM9QiijnVkT3uC1XvGOMmtALvNi/HkwyT50re9qACOuG1UyE4d3N/FaDNA3u6CVuvYI/oZzaOPdLwcVZfln48fby67dMIWBgdB04t89/1O/w1cDnyilFU='
   channel-secret: '3dc3ad2bd9cb70e54d5dbcaed22acf38'
